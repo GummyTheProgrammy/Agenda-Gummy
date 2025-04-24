@@ -63,16 +63,14 @@ class Compromisso {
 
 // Lista de compromissos
 const compromissos = [
-	//new Compromisso(VD, 'Ensaio', 'Violence Division', '17/03', '21h às 23h', 'Cafofo'),
-	new Compromisso(Groot, 'Ensaio', 'Grootescos', '01/04', '21 as 23', 'Cafofo'),
-	new Compromisso(Jardins, 'Ensaio', 'Jardins do Jack', '03/04', '20h', 'Cafofo'),
-	new Compromisso(Groot, 'Show', 'Ostradeiros Aniversário Xenon', '06/04', 'A definir', 'Rio das Ostras'),
-	new Compromisso(Cerv, 'Ensaio', 'Cervical', '07/04', '20h', 'Cafofo'),
-	new Compromisso(Jardins, 'Show', 'Aldeia Velha Rock Fest', '19/04', 'A definir', 'Aldeia Velha'),
-	new Compromisso(VD, 'Show', 'Ostracycle', '23~27/04', 'A definir', 'Rio das Ostras'),
-	new Compromisso(Groot, 'Show', 'Ostracycle', '23~27/04', 'A definir', 'Rio das Ostras'),
+	//new Compromisso(VD, 'Ensaio', 'Violence Division', '01/05', '21h às 23h', 'Cafofo'),
+	//new Compromisso(Jardins, 'Ensaio', 'Jardins do Jack', '00/05', '20h', 'Vale dos cristais'),
+	new Compromisso(Groot, 'Show', 'Ostracycle', '25/04', '21h', 'Rio das Ostras'),
+	new Compromisso(ResCos, 'Show', 'Ostracycle', '26/04', '21h', 'Rio das Ostras'),
+	new Compromisso(Groot, 'Show', 'Ostracycle', '27/04', '14h', 'Rio das Ostras'),
+	new Compromisso(Cerv, 'Ensaio', 'Cervical', '28/04', '20h', 'Cafofo'),
 	new Compromisso(Groot, 'Show', 'Marrentos', '01/05', 'A definir', 'Onde?'),
-	new Compromisso(Cerv, 'Show', 'Heavy Beer', '03/05', 'A definir', 'Rio de Janeiro - Rua Ceará'),
+	new Compromisso(Cerv, 'Show', 'Heavy Beer', '04/05', 'A definir', 'Rio de Janeiro - Rua Ceará'),
 	new Compromisso(Jardins, 'Show', 'Tropic Thunder', '09/05', 'A definir', 'Rio das Ostras'),
 	new Compromisso(VD, 'Show', 'Macaé Motoclube', '17/05', 'A definir', 'Macaé'),
 	new Compromisso(Groot, 'Show', 'Macaé Motoclube', '17/05', 'A definir', 'Macaé'),
